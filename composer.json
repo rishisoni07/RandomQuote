@@ -1,0 +1,18 @@
+{
+    "name": "random/random-quotes",
+    "description": "This library will generate rando quotes for you.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rishi Soni",
+            "email": "rishi.digicom@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "RandomQuote\\":"./"
+        }
+    },
+    "require": {}
+}
